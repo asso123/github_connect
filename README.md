@@ -90,6 +90,17 @@ git clone 주소
  ![image](https://github.com/asso123/github_connect/assets/129017021/bb6e9cd9-df96-4880-a810-937bb2e106be)
 ![image](https://github.com/asso123/github_connect/assets/129017021/a4ec449d-49f2-4505-9275-e1d9aab985b2)
 
+수정 후 업로드 할 때
+![image](https://github.com/asso123/github_connect/assets/129017021/8688ac74-f4bf-4e42-b808-8acbd3f8a1ec)
+
+![image](https://github.com/asso123/github_connect/assets/129017021/35fc76af-c775-4efe-9f31-b63dcc2fc576)
+
+![image](https://github.com/asso123/github_connect/assets/129017021/5ac57c5d-bb33-4fe0-adbd-6d83ad2fc504)
+
+![image](https://github.com/asso123/github_connect/assets/129017021/3d8fa688-f977-4d81-a631-c0638f97b29c)
+
+수정사항 김시은 누르면 수정된 부분 확인 가능하고 merge full request 는 내가 누르는거 아님 컨펌받고 담당자가 누르는거
+
   
   
             
