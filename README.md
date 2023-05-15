@@ -65,6 +65,34 @@ github에 올리기
  
             git push origin master           
             
+--------------------------------------------
+#git hub협업하는 방법
+
+#사원입장--------------------
+1.소스코드 다운로드
+ git clone 주소
+주소 다운 받는 방법 .
+code눌러서 http로 나오는 주소 복사하면 됨
+![image](https://github.com/asso123/github_connect/assets/129017021/3cd13144-d249-4b41-bf3f-493a54ad3d53)
+
+드라이브에 빈폴더 하나 만들고 비주얼 스튜디오에서 폴더 열고 뉴터미널에 
+git clone 주소
+  git clone https://github.com/asso123/Hana_card.git 이거 입력하면 됨
+  
+  2.브랜치 만들기
+  수정해서 다시 깃허브에 올리는거
+  
+  git checkout -b브랜치 이름  
+ git checkout -b seeeun
+ 
+ git add . 
+ git commit -m "하나카드"
+ ![image](https://github.com/asso123/github_connect/assets/129017021/bb6e9cd9-df96-4880-a810-937bb2e106be)
+![image](https://github.com/asso123/github_connect/assets/129017021/a4ec449d-49f2-4505-9275-e1d9aab985b2)
+
+  
+  
+            
                  
                   
                   
